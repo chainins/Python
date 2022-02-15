@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Group 2: Xinze Yang, Chengpi Wu
-
 # BFS (Breadth First Search for a Directed Graph with Distance)
 
 Map = {
